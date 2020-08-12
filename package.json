@@ -1,0 +1,16 @@
+{
+  "name": "@zeekinteractive/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier JS configuration for Zeek Interactive",
+  "main": "index.json",
+  "keywords": [
+    "prettier"
+  ],
+  "author": "Zeek Interactive",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZeekInteractive/prettier-config"
+  },
+  "homepage": "https://github.com/ZeekInteractive/prettier-config"
+}
