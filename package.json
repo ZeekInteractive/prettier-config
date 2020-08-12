@@ -1,6 +1,6 @@
 {
   "name": "@zeekinteractive/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Prettier JS configuration for Zeek Interactive",
   "main": "index.json",
   "keywords": [
